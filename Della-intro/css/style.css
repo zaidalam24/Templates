@@ -1,0 +1,91 @@
+/* Della HTML Template*/
+
+
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,600,700,800,900|Roboto:300,400,500,700');
+/*font-family: 'Roboto', sans-serif;
+font-family: 'Raleway', sans-serif;*/
+
+
+/*=================     main header style  ==================*/
+
+
+.header {
+	position: relative;
+	text-align: center;
+	padding: 360px 0;
+}
+
+.header h2 {
+	color: #fff;
+	font-weight: 900;
+	font-size: 80px;
+	line-height: 100px;
+	text-transform: uppercase;
+	margin-bottom: 50px;
+}
+
+.header .theme-btn {
+	line-height: 29px;
+}
+
+.header .theme-btn:hover {
+	background: #222;
+	color: #fff;
+}
+
+.main-demo {
+	position: relative;
+	padding: 100px 0;
+}
+
+.main-demo .image {
+	position: relative;
+	box-shadow: 0px 7px 30px 0px rgba(0, 0, 0, 0.1);
+}
+
+.main-demo h3 {
+	position: relative;
+	font-size: 16px;
+	font-weight: 700;
+	text-transform: uppercase;
+	text-align: center;
+	margin-top: 40px;
+}
+
+.main-demo h3:hover {
+	color: #dc013b;
+}
+
+.main-demo h3 a {
+	color: inherit;
+}
+
+/* footer */
+
+.footer {
+	background: #242424;
+}
+
+.footer .text-center {
+	position: relative;
+	padding: 100px 0;
+}
+
+.footer h2 {
+	font-size: 36px;
+	color: #fff;
+	font-weight: 800;
+	line-height: 46px;
+	margin-bottom: 30px;
+}
+
+.footer .footer-bottom {
+	position: relative;
+	text-align: center;
+	border-top: 1px solid #333;
+	padding: 20px 0;
+}
+
+.footer .footer-bottom a{
+	color: #fff;
+}

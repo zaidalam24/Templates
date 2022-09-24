@@ -1,0 +1,201 @@
+
+
+/*Theme Color File*/
+a,
+.thm-clr,
+.top-left-content ul li:hover,
+.top-right-content ul li a:hover,
+.main-menu .navigation > li:hover > a, 
+.main-menu .navigation > li.current > a,
+.single-featured-box:hover .top .title-box h3 a,
+.single-choosing-item:hover .icon-holder span:before,
+.single-courses-item .text-holder span,
+.single-blog-post .text-holder .meta-box .meta-info li a i,
+.single-blog-post .text-holder .blog-title:hover a,
+.footer-social-links ul li a:hover i,
+.breadcrumb-area .breadcrumb-menu ul li.active,
+.breadcrumb-area .breadcrumb-menu ul li a:hover,
+.breadcrumb-area .breadcrumb-menu ul li i,
+.accordion-box .accordion .accord-btn.active h4,
+.accordion-box .accordion .accord-btn.active:after,
+.slogan-area .button a,
+.left-sidebar .single-sidebar .service-list-box .page-links li a:hover, 
+.left-sidebar .single-sidebar .service-list-box .page-links li a.active,
+.single-speaker-area .bottom-content .schedule .schedule-single:hover .inner-content .left .title h3 a,
+.single-speaker-area .bottom-content .schedule .schedule-single:hover .inner-content .left .time .icon-holder span:before,
+.single-sidebar .categories li a:hover,
+.single-sidebar .popular-post li .title-holder a:hover .post-title,
+.single-sidebar .popular-post li .title-holder .post-date i,
+.blog-single-area .author-slogan .author-info span,
+.blog-single-area .inner-comment-box .single-comment-box .text-holder .top .review-box ul li i,
+.add-comment-box .add-rating-box ul li a:hover i,
+.history-progress-area .owl-theme .owl-nav [class*="owl-"]:hover,
+.single-team-member .text-holder .social-links li a:hover i,
+.single-sidebar .popular-courses li .title-holder .bottom .rating-box ul li i,
+.single-sidebar .popular-courses li .title-holder a:hover .post-title,
+#project-single-area .bottom .button a:hover,
+#project-single-area .bottom .icon-holder a:hover i,
+.single-product-item .title-holder .top .right ul li i,
+.sidebar-wrapper .single-sidebar .latest-product li .title-holder .review-box li i,
+.single-shop-content .content-box .review-box ul li i,
+.single-shop-content .content-box .location-box form span,
+.product-tab-box .tab-btns .tab-btn.active-btn span, 
+.product-tab-box .tab-btns .tab-btn:hover span,
+.product-tab-box .tabs-content .review-box .single-review-box .text-holder .top .review-box ul li i,
+.product-tab-box .review-form .add-rating-box ul li:hover a i,
+.cart-area .cart-table tbody tr .sub-total,
+.cart-total-table li span.col b,
+.checkout-area .exisitng-customer h5 a,
+.checkout-area .coupon h5 a,
+.checkout-area .table .cart-table tbody tr td.price,
+.cart-total .payment-options .option-block .checkbox label span b,
+.login-register-area .form a.forgot-password,
+.contact-info-box-one .owl-theme .owl-nav .owl-prev,
+.contact-info-box-one .owl-theme .owl-nav .owl-next{
+	color: #006791;
+}
+
+
+
+
+
+
+
+/*Background Color*/
+.thm-bg-clr,
+.search-box,
+.main-menu .navigation li a:after,
+.main-menu .navigation > li > ul > li:hover > a,
+.sec-title .dector:before,
+.sec-title .dector:after,
+.call-toaction-area .title-holder:before,
+.call-toaction-area .title-holder:after,
+.single-success-item .img-holder .overlay-style-one .box .content:before,
+.testimonial-area .owl-dots .owl-dot.active,
+.testimonial-area .owl-dots .owl-dot:hover,
+.single-footer-widget .subscribe-form form input[type=text]:focus + button,
+.single-footer-widget .subscribe-form form button:hover,
+.tparrows:hover,
+.left-sidebar .single-sidebar .service-list-box .page-links li a:hover:before, 
+.left-sidebar .single-sidebar .service-list-box .page-links li a.active:before,
+.sidebar-testimonial-box .owl-dots .owl-dot.active,
+.sidebar-testimonial-box .owl-dots .owl-dot:hover,
+.single-speaker-area .bottom-content .schedule .schedule-single:hover .inner-content .right a,
+.single-event-content .social-share-box .social-share-icon li a:hover i,
+.post-pagination li.active a, 
+.post-pagination li:hover a,
+.single-sidebar .categories li:hover:before,
+.single-sidebar .categories li a:hover::before,
+.single-history .date-box:before,
+.single-project-item .img-holder .overlay-style-one .box .content .inner-content:before,
+.single-sidebar .price-ranger .ui-slider-handle,
+.sidebar-wrapper .single-sidebar .product-tag li a:hover,
+.checkout-area .exisitng-customer:before,
+.checkout-area .coupon:before{
+	background-color: #006791;
+}
+
+
+
+
+
+
+
+/*Border Color*/
+.testimonial-area .owl-dots .owl-dot.active,
+.testimonial-area .owl-dots .owl-dot:hover,
+.tparrows:hover,
+.accordion-box .accordion .accord-btn.active:after,
+.left-sidebar .single-sidebar .service-list-box .page-links li a:hover, 
+.left-sidebar .single-sidebar .service-list-box .page-links li a.active,
+.left-sidebar .single-sidebar .service-list-box .page-links li a:hover:before, 
+.left-sidebar .single-sidebar .service-list-box .page-links li a.active:before,
+.sidebar-testimonial-box .owl-dots .owl-dot.active,
+.sidebar-testimonial-box .owl-dots .owl-dot:hover,
+.countdown-timer li,
+.single-event-content .social-share-box .social-share-icon li a:hover i,
+.post-pagination li.active a, 
+.post-pagination li:hover a,
+.single-sidebar .categories,
+.life-coaching-area .owl-dots .owl-dot.active,
+.life-coaching-area .owl-dots .owl-dot:hover,
+.history-progress-area .owl-theme .owl-nav [class*="owl-"]:hover,
+#project-single-area .owl-dots .owl-dot.active,
+.single-sidebar .price-ranger .ui-slider-handle,
+.sidebar-wrapper .single-sidebar .product-tag li a:hover,
+.contact-info-box-one .owl-theme .owl-nav .owl-prev,
+.contact-info-box-one .owl-theme .owl-nav .owl-next{
+	border-color: #006791;
+}
+
+
+
+
+
+/* Rgba Background color **/
+.overlay-style-one,
+.parallax-bg-one::before,
+.video-holder .overlay-gallery,
+.single-product-item .img-holder .overlay-style-one{
+    background: rgba(0, 103, 145, 0.90);
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 991px){
+/* Background Color */    
+.main-menu .navbar-collapse > .navigation > li > a,
+.main-menu .navbar-collapse > .navigation > li > ul > li > a{
+    background-color: #006791;
+}
+ 
+    
+.main-menu .navbar-collapse > .navigation > li > a:hover,
+.main-menu .navbar-collapse > .navigation > li > a:active,
+.main-menu .navbar-collapse > .navigation > li > a:focus,
+.main-menu .navbar-collapse > .navigation > li.current > a,
+.main-menu .navbar-collapse > .navigation > li.current-menu-item > a{
+    background: #0a1821;    
+}    
+  
+    
+/* Border Color */        
+.main-menu .navbar-collapse > .navigation > li,
+.main-menu .navbar-collapse > .navigation > li > ul > li,    
+.main-menu .navbar-collapse > .navigation > li:last-child,
+.main-menu .navbar-collapse > .navigation > li > ul > li:last-child{
+    border-color: #045a7d;        
+}    
+
+    
+}
+
+
+
+
+.single-session-box .top .right-content{
+    transition: all 500ms ease;
+}
+.single-session-box:hover .top .right-content{
+    background: #006791;
+}
+.single-session-box .top .right-content h3{
+    transition: all 700ms ease;    
+}
+.single-session-box:hover .top .right-content h3{
+    color: #ffffff;
+}
+.single-session-box:hover .bottom a.details {
+    color: #ffffff;
+    background: #006791;
+}
+
+
+
+
+
+

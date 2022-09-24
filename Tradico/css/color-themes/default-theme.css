@@ -1,0 +1,84 @@
+
+
+/*Theme Color File*/
+a,
+.thm-clr,
+.main-menu .navigation > li:hover > a, 
+.main-menu .navigation > li.current > a{
+	color:#fdc209;
+}
+
+
+
+
+
+/*Background Color*/
+.thm-bg-clr,
+.search-box{
+	background-color:#fdc209;
+}
+
+
+
+
+
+/*Background Image*/
+
+
+
+
+
+
+/*Border Color*/
+
+
+
+
+
+/* Rgba Background color **/
+.owl-nav-style-two.owl-theme .owl-nav [class*="owl-"]:hover{
+    background: rgba(255, 65, 54, 0.90);
+}
+
+
+
+/* Rgba Background color 
+
+@media only screen and (max-width: 991px){
+/* Background Color  
+.main-menu .navbar-header .navbar-toggle,
+.main-menu .navbar-collapse > .navigation > li > a,
+.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+.main-menu .navbar-collapse > .navigation > li:hover > a,
+.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+.header-style-two.inner-header .main-menu .navigation > li > a{
+    background-color:#FF4136;
+}
+ 
+    
+.main-menu .navbar-collapse > .navigation > li > a:hover,
+.main-menu .navbar-collapse > .navigation > li > a:active,
+.main-menu .navbar-collapse > .navigation > li > a:focus,
+.main-menu .navbar-collapse > .navigation > li.current > a,
+.main-menu .navbar-collapse > .navigation > li.current-menu-item > a{
+    background: #0e1b38;    
+}    
+  
+    
+/* Border Color  
+.main-menu .navbar-header .navbar-toggle{
+    border-color:#FF4136;
+}    
+.main-menu .navbar-collapse > .navigation > li,
+.main-menu .navbar-collapse > .navigation > li > ul > li,    
+.main-menu .navbar-collapse > .navigation > li:last-child,
+.main-menu .navbar-collapse > .navigation > li > ul > li:last-child{
+    border-color: #e32c22;        
+}    
+
+    
+}
+
+
+
+**/

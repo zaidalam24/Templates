@@ -1,0 +1,64 @@
+/*Theme Color*/
+a,
+.theme_color,
+.single-blog-post .text-holder .top .date-box h4,
+.single-blog-post .text-holder .readmore a,
+.rev_slider_wrapper .slide-content .text,
+.outer-search-box .seach-toggle:hover, 
+.outer-search-box .seach-toggle.active,
+.project-filter li.active span, 
+.project-filter li:hover span{
+	color:#3740b0;
+}
+
+
+
+
+
+/*Background Color*/
+.main-menu .navigation li a:after,
+.btn-one,
+.tparrows:hover,
+.sec-title .border:before,
+.sec-title .border:after{
+	background-color: #3740b0;
+}
+
+
+
+
+
+/*Border Color*/
+.tparrows:hover{
+	border-color: #3740b0;
+}
+
+
+
+
+
+/****
+@media only screen and (max-width: 767px){
+	.main-menu .navbar-header .navbar-toggle{
+		border-color: #9cc900;
+	}
+	.main-menu .navbar-header .navbar-toggle,
+	.main-menu .navbar-collapse > .navigation,
+	.main-menu .navbar-collapse > .navigation > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > a:hover,
+	.main-menu .navbar-collapse > .navigation > li > a:active,
+	.main-menu .navbar-collapse > .navigation > li > a:focus,
+	.main-menu .navbar-collapse > .navigation > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li.current > a,
+	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
+	.header-style-two.inner-header .main-menu .navigation > li > a{
+		background-color: #9cc900;
+	}
+}
+****/

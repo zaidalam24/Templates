@@ -1,0 +1,1772 @@
+
+/* Large Layout: 1200px. */
+@media only screen and (min-width: 1200px){
+.container {padding: 0;}
+.container-fluid{padding: 0;}    
+ 
+    
+}
+
+
+
+@media only screen and (min-width: 4000px) and (max-width: 6000px) {  
+.header-middle {
+    margin-left: 80px;
+}
+.main-menu .navigation li {
+    margin-left: 18px;
+}    
+    
+}
+
+
+
+
+/* Medium screen  */ 
+@media only screen and (min-width: 992px) and (max-width: 1199px) {  
+    
+ /*** 
+=============================================
+    Top bar Area style
+=============================================
+***/
+.top-left-content {
+    max-width: 480px;
+}
+    
+/*** 
+=============================================
+    header Area style
+=============================================
+***/ 
+.header-middle {
+    margin-left: 85px;
+}    
+.main-menu .navigation li {
+    margin-left: 30px;
+}
+.header-right{
+    display: none;
+}
+ 
+/*** 
+=============================================
+    Rev slider wrapper style
+=============================================
+***/     
+.rev_slider_wrapper .slide-content.left-slide{
+    margin-left: 100px !important;        
+}    
+.rev_slider_wrapper .slide-content.right-slide{
+    margin-right: 100px !important;        
+}    
+
+/*** 
+=============================================
+    Experience Area style
+=============================================
+***/      
+.life-coacher-box {
+    padding-bottom: 80px;
+}    
+.life-coacher-box .inner-content {
+    padding-right: 15px;
+}   
+.experience-right-box .experience-box {
+    margin: 127px 0;
+} 
+
+/*** 
+=============================================
+    Session Area style
+=============================================
+***/     
+.single-session-box .top .left-content {
+    float: none !important;
+}    
+.single-session-box .top .right-content {
+    float: none !important;
+    margin-top: 30px;
+}
+    
+/*** 
+=============================================
+    Courses area style
+=============================================
+***/      
+.single-courses-item .text-holder h4 a br{
+    display: none;
+}    
+    
+/*** 
+=============================================
+    Latest blog area  style
+=============================================
+***/
+.latest-blog-area .inner-content:before {
+    left: 10px;
+    bottom: -140px;
+    width: 920px;
+    height: 100px;
+}    
+.single-blog-post {
+    min-height: 274px;
+}
+    
+/*** 
+=============================================
+    Footer area style
+=============================================
+***/     
+.footer-top-content ul li {
+    max-width: 310px;
+}
+    
+/*** 
+=============================================
+    Applying process area style
+=============================================
+***/    
+.applying-process ul li{
+    margin-right: 80px;        
+}    
+.applying-process ul li.arrow-bottom:before{
+    display: none;
+}    
+.applying-process ul li.arrow-top:before{
+    display: none;        
+}    
+
+/*** 
+=============================================
+    Faq area style
+=============================================
+***/      
+.faq-left {
+    margin-bottom: 50px;
+}    
+
+/*** 
+=============================================
+    Coach Single Area style
+=============================================
+***/ 
+.single-coach-content .description-content-box .text-holder {
+    display: block;
+    margin-top: 30px;
+}    
+.single-coach-content .get-content-box .text-holder {
+    margin-top: 35px;
+}    
+.single-coach-content .package-content-box .text-holder {
+    display: block;
+    margin-top: 35px;
+}    
+
+/*** 
+=============================================
+    Event single area style
+=============================================
+***/     
+.single-event-content .why-come .single-box {
+    margin-bottom: 30px;
+}    
+.single-event-content .why-come .single-box img{
+    width: 100%;        
+}    
+    
+/*** 
+=============================================
+    Blog Single area style
+=============================================
+***/
+.blog-single-area .bottom-content-box .text-box {
+    margin-top: 20px;
+}  
+.blog-single-area .bottom-content-box .img-box img {
+    width: 100%;
+}    
+.blog-single-area .tag-box .left {
+    float: none !important;
+    display: block;
+}
+.blog-single-area .tag-box .tag {
+    float: none !important;
+    display: block;
+    margin-top: 10px;
+}     
+    
+/*** 
+=============================================
+    Breadcrumb area about page style
+=============================================
+***/      
+.applying-process.about-page ul li {
+    margin-right: 15px;
+}    
+    
+/*** 
+=============================================
+    Experience area about page style
+=============================================
+***/       
+.life-coacher-box {
+    padding-bottom: 50px;
+}  
+    
+/*** 
+=============================================
+    History progress area style
+=============================================
+***/      
+.history-progress-area .progress-br{
+    display: block;
+    margin-top: 50px;
+}    
+     
+/*** 
+=============================================
+    Life coaching area style
+=============================================
+***/     
+.life-coaching-area .certified-logo {
+    padding-bottom: 40px;
+}    
+ 
+/*** 
+=============================================
+    All courses area style
+=============================================
+***/      
+.all-courses-area .courses-content {
+    padding-bottom: 70px;
+    display: block;
+}    
+    
+/*** 
+=============================================
+    single courses area style
+=============================================
+***/     
+.single-courses-area .single-courses-content{
+    padding-bottom: 70px;
+    display: block;        
+}   
+
+/*** 
+=============================================
+    Success stories area style
+=============================================
+***/      
+.success-stories-content{
+    display: block;
+    padding-bottom: 70px;
+}
+
+/*** 
+=============================================
+    Success stories single style
+=============================================
+***/ 
+.single-success-stories-content {
+    display: block;
+    padding-bottom: 70px;
+}    
+.single-success-stories-content .what-we-offer-text .text {
+    overflow: hidden;
+    padding-bottom: 40px;
+}    
+
+/*** 
+=============================================
+    Project single Area style
+=============================================
+***/ 
+#project-single-area .owl-theme .owl-dots {
+    top: 75%;
+}    
+#project-single-area .project-info {
+    margin-top: 30px;
+    padding-left: 0;
+}    
+#project-single-area .project-info:before {
+    display: none;
+}  
+    
+/*** 
+=============================================
+    Shop Area style
+=============================================
+***/     
+#shop-area .sidebar-wrapper {
+    position: relative;
+    padding-top: 70px;
+}
+    
+/*** 
+=============================================
+    Single Shop Area style
+=============================================
+***/     
+.single-shop-content .img-holder {
+    margin-right: 20px;
+}    
+.single-shop-content .content-box {
+    margin-left: -20px;
+}       
+    
+/*** 
+=============================================
+    Login Register Area style
+=============================================
+***/     
+.login-register-area .form a.forgot-password {
+    margin: 70px 0 0;
+}    
+.login-register-area .form.register {
+    overflow: hidden;
+    margin-top: 50px;
+}    
+.login-register-area .form h6 {
+    margin: 28px 0 0;
+}          
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+
+}
+
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {  
+    
+/*** 
+=============================================
+    Top Bar Area style
+=============================================
+***/ 
+.top-left-content {
+    max-width: 100%;
+    text-align: center;
+    margin-bottom: 13px;
+}    
+.top-left-content ul li {
+    float: none;
+}
+.top-right-content {
+    max-width: 100%;
+    width: 425px;
+    float: none !important;
+    margin: 0 auto;
+    overflow: hidden;
+}  
+    
+/*** 
+=============================================
+    header Area style
+=============================================
+***/    
+.header-area .inner-content {
+    position: relative;
+    display: block;
+}
+.header-left {
+    float: none !important;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
+.logo {
+    padding: 5px 0;
+}    
+.header-right {
+    padding: 22px 0 23px;
+    float: none !important;
+    position: absolute;
+    top: 0;
+    left: 300px;
+    z-index: 9999;
+}  
+.header-middle {
+    float: none !important;
+    margin: 0;
+}
+    
+/*** 
+=============================================
+    Rev slider wrapper style
+=============================================
+***/     
+.rev_slider_wrapper .slide-content.left-slide{
+    margin-left: 100px !important;        
+}    
+.rev_slider_wrapper .slide-content.right-slide{
+    margin-right: 100px !important;        
+}        
+
+/*** 
+=============================================
+    Call Toaction area style
+=============================================
+***/   
+.call-toaction-area .text-holder {
+    padding: 24px 0;
+    padding-bottom: 0;
+    text-align: right;
+} 
+
+/*** 
+=============================================
+    Experience Area style
+=============================================
+***/      
+.life-coacher-box {
+    padding-bottom: 80px;
+}    
+.life-coacher-box .inner-content {
+    padding-right: 15px;
+}   
+.experience-right-box .experience-box {
+    margin: 0 0 0;
+}     
+.experience-right-box img {
+    max-width: 100%;
+    float: none;
+}    
+    
+/*** 
+=============================================
+    Courses area style
+=============================================
+***/      
+.single-courses-item .text-holder h4 a br{
+    display: none;
+}    
+
+/*** 
+=============================================
+    Testimonial area style
+=============================================
+***/ 
+.testimonial-outer .quote-icon{
+    display: none;        
+}    
+.testimonial-outer .owl-stage-outer:before {
+    display: none;
+}
+    
+/*** 
+=============================================
+    Latest blog area  style
+=============================================
+***/
+.latest-blog-area .inner-content:before {
+    left: 10px;
+    bottom: -150px;
+    width: 640px;
+    height: 100px;
+}  
+.single-blog-post {
+    min-height: 274px;
+}
+    
+/*** 
+=============================================
+    Footer area style
+=============================================
+***/     
+.footer-top-content ul li {
+    max-width: 230px;
+}
+.single-footer-widget.pdtop-30{
+    padding-top: 30px;        
+}    
+ 
+/*** 
+=============================================
+    Footer Bottom area style
+=============================================
+***/ 
+.footer-bottom-area {
+    padding: 23px 0 15px;
+}    
+.footer-bottom-area .footer-bottom .copyright-text {
+    float: none !important;
+    text-align: center;
+    display: block;
+}    
+.footer-social-links {
+    margin: 5px 0 0;
+    float: none !important;
+    text-align: center;
+}
+.footer-social-links ul li {
+    display: inline-block;
+    float: none;
+    margin: 0 5px;
+}    
+ 
+/*** 
+=============================================
+    Applying process area style
+=============================================
+***/    
+.applying-process ul li{
+    margin: 0 1px;        
+}    
+.applying-process ul li.arrow-bottom:before{
+    display: none;
+}    
+.applying-process ul li.arrow-top:before{
+    display: none;        
+}    
+    
+/*** 
+=============================================
+    Faq area style
+=============================================
+***/      
+.faq-left {
+    margin-bottom: 50px;
+}    
+    
+/*** 
+=============================================
+    Slogan area style
+=============================================
+***/ 
+.slogan-area{
+    padding: 30px 0 35px;        
+}    
+.slogan-area .title {
+    margin: 0px 0 13px;
+    float: none !important;
+    display: block;
+    text-align: center;
+}    
+.slogan-area .button {
+    float: none !important;
+    display: block;
+}    
+.slogan-area .button a {
+    margin: 0 auto;
+}    
+    
+/*** 
+=============================================
+    Coach Single Area style
+=============================================
+***/ 
+.single-coach-content .description-content-box .text-holder {
+    display: block;
+    margin-top: 30px;
+}    
+.single-coach-content .get-content-box .text-holder {
+    margin-top: 35px;
+}    
+.single-coach-content .package-content-box .text-holder {
+    display: block;
+    margin-top: 35px;
+}    
+    
+/*** 
+=============================================
+    Single speaker Area style
+=============================================
+***/   
+.single-speaker-area .bottom-content .schedule .schedule-single .inner-content .left .time, 
+.single-speaker-area .bottom-content .schedule .schedule-single .inner-content .left .title{
+    display: block;
+    overflow: hidden;
+}    
+.single-speaker-area .bottom-content .schedule .schedule-single .inner-content .left .time{
+    border: none;        
+}
+.single-speaker-area .bottom-content .schedule .schedule-single .inner-content .left .title{
+    padding-left: 0;
+    margin-top: 15px;
+}   
+.single-speaker-area .bottom-content .schedule .schedule-single .inner-content .left{
+    float: none !important;  
+    display: block;
+    margin-bottom: 15px;
+}    
+.single-speaker-area .bottom-content .schedule .schedule-single .inner-content .right{
+    float: none !important;        
+}    
+        
+/*** 
+=============================================
+    Event single area style
+=============================================
+***/  
+.event-single-sidebar{
+    margin-top: 60px;        
+}    
+.single-event-content .why-come .single-box img{
+    width: 100%;        
+}    
+            
+/*** 
+=============================================
+    Blog large area style
+=============================================
+***/     
+.blog-large-area .blog-post:before {
+    display: none;
+}    
+#blog-area .sidebar-wrapper {
+    padding: 0;
+    margin-top: 60px;
+}    
+
+/*** 
+=============================================
+    Blog Single area style
+=============================================
+***/
+.blog-single-area .bottom-content-box .text-box {
+    margin-top: 20px;
+}  
+.blog-single-area .bottom-content-box .img-box img {
+    width: 100%;
+}    
+.blog-single-area .tag-box .left {
+    float: none !important;
+    display: block;
+}
+.blog-single-area .tag-box .tag {
+    float: none !important;
+    display: block;
+    margin-top: 10px;
+}     
+
+/*** 
+=============================================
+    Breadcrumb area about page style
+=============================================
+***/
+.applying-process.about-page {
+    max-width: 520px;
+}    
+.applying-process.about-page ul li {
+    margin: 0 20px 40px;
+}    
+        
+/*** 
+=============================================
+    Experience area about page style
+=============================================
+***/       
+.life-coacher-box {
+    padding-bottom: 50px;
+}  
+        
+/*** 
+=============================================
+    History progress area style
+=============================================
+***/      
+.history-progress-area .progress-br{
+    display: block;
+    margin-top: 50px;
+}    
+         
+/*** 
+=============================================
+    Life coaching area style
+=============================================
+***/     
+.life-coaching-area .certified-logo {
+    padding-bottom: 40px;
+}    
+     
+/*** 
+=============================================
+    All courses area style
+=============================================
+***/      
+.all-courses-area .courses-content {
+    padding-bottom: 70px;
+    display: block;
+}    
+        
+/*** 
+=============================================
+    single courses area style
+=============================================
+***/     
+.single-courses-area .single-courses-content{
+    padding-bottom: 70px;
+    display: block;        
+}   
+
+/*** 
+=============================================
+    Success stories area style
+=============================================
+***/      
+.success-stories-content{
+    display: block;
+    padding-bottom: 70px;
+}
+
+/*** 
+=============================================
+    Success stories single style
+=============================================
+***/  
+.single-success-stories-content {
+    display: block;
+    padding-bottom: 70px;
+}      
+.single-success-stories-content .top-box .image-box {
+    float: none;
+    max-width: 100%;
+    width: 100%;
+}    
+.single-success-stories-content .top-box .image-box img{
+    width: 100%;        
+} 
+.single-success-stories-content .what-we-offer-text .text {
+    overflow: hidden;
+    padding-bottom: 40px;
+}    
+    
+/*** 
+=============================================
+    Project single Area style
+=============================================
+***/ 
+#project-single-area .owl-theme .owl-dots {
+    top: 70%;
+}    
+#project-single-area .project-info {
+    margin-top: 30px;
+    padding-left: 0;
+}    
+#project-single-area .project-info:before {
+    display: none;
+}  
+        
+/*** 
+=============================================
+    Testimonial page style
+=============================================
+***/ 
+.testimonial-page {
+    padding-bottom: 25px;
+}    
+.testimonial-page .testimonial-box .single-box:before {
+    display: none;
+}   
+.testimonial-page .testimonial-box .single-box {
+    position: relative;
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}  
+.testimonial-page .testimonial-block-one {
+    display: block;
+    padding: 0 50px;
+    margin-bottom: 50px;
+}    
+      
+/*** 
+=============================================
+    Shop Area style
+=============================================
+***/     
+#shop-area .sidebar-wrapper {
+    position: relative;
+    padding-top: 70px;
+}
+    
+/*** 
+=============================================
+    Single Shop Area style
+=============================================
+***/     
+.single-shop-content .img-holder {
+    margin-right: 0px;
+    max-width: 330px;
+}  
+.single-shop-content .content-box {
+    margin-left: 0;
+    margin-top: 0;
+}   
+.related-product .single-product-item {
+    margin-bottom: 40px;
+}      
+    
+/*** 
+=============================================
+    Cart Area style
+=============================================
+***/      
+.cart-area .cart-bottom .calculate-shipping {
+  padding-bottom: 60px;
+}     
+ 
+/*** 
+=============================================
+    Checkout Area style
+=============================================
+***/    
+.checkout-area .form.shipping-info {
+  padding-top: 60px;
+}    
+.checkout-area .cart-total {
+  padding-top: 60px;
+}    
+    
+/*** 
+=============================================
+    Login Register Area style
+=============================================
+***/     
+.login-register-area .form a.forgot-password {
+  margin: 70px 0 0;
+} 
+.login-register-area .register {
+  padding-top: 50px;
+}    
+.login-register-area .form h6 {
+  color: #797979;
+  float: left;
+  font-size: 14px;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-top: 27px;
+}
+
+/*** 
+=============================================
+    Contact Info Area style
+=============================================
+***/     
+.contact-form {
+    margin-bottom: 50px;
+}    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+    
+}
+
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+
+/*** 
+=============================================
+    Top Bar Area style
+=============================================
+***/ 
+.top-left-content {
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 8px;
+} 
+.top-left-content ul{
+    width: 300px;
+    margin: 0 auto;
+}    
+.top-left-content ul li {
+    float: none;
+    border: none;
+    margin-bottom: 5px;
+    margin-right: 0;
+    padding: 0;
+}
+.top-right-content {
+    max-width: 100%;
+    width: 220px;
+    float: none !important;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.top-right-content p {
+    margin-bottom: 4px;
+}
+.top-right-content ul {
+    border-left: none;
+    margin-left: 0;
+    padding-left: 15;
+}    
+    
+/*** 
+=============================================
+    header Area style
+=============================================
+***/
+.header-area:before{
+    display: none;
+}    
+.header-area:after{
+    display: none;    
+}    
+.header-area .inner-content {
+    position: relative;
+    display: block;
+}
+.header-left {
+    float: none !important;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
+.logo {
+    padding: 5px 0;
+}    
+.header-right {
+    display: none;
+}  
+.header-middle {
+    float: none !important;
+    margin: 0;
+} 
+    
+/*** 
+=============================================
+    Rev slider wrapper style
+=============================================
+***/     
+.rev_slider_wrapper .slide-content.left-slide{
+    margin-left: 70px !important;        
+}    
+.rev_slider_wrapper .slide-content.right-slide{
+    margin-right: 20px !important;        
+} 
+.tparrows{
+    display: none;
+}    
+    
+/*** 
+=============================================
+    Call Toaction area style
+=============================================
+***/   
+.call-toaction-area .text-holder {
+    padding: 24px 0;
+    padding-bottom: 0;
+    text-align: right;
+} 
+
+/*** 
+=============================================
+    Experience Area style
+=============================================
+***/      
+.life-coacher-box {
+    padding-bottom: 80px;
+}    
+.life-coacher-box .inner-content {
+    padding-right: 15px;
+}  
+.experience-right-box {
+    position: relative;
+    min-height: 460px;
+    padding-bottom: 80px;
+}    
+.experience-right-box .experience-box {
+    margin: 0 0 0;
+}     
+.experience-right-box img {
+    max-width: 100%;
+    float: none;
+}    
+       
+/*** 
+=============================================
+    Session Area style
+=============================================
+***/     
+.single-session-box .top .left-content {
+    float: none !important;
+}    
+.single-session-box .top .right-content {
+    float: none !important;
+    margin-top: 30px;
+}
+        
+/*** 
+=============================================
+    Courses area style
+=============================================
+***/ 
+.courses-area .sec-title {
+    float: none !important;
+    padding-bottom: 30px;
+}
+.courses-area .view-courses-button {
+    margin-top: 0;
+    float: none !important;
+    margin-bottom: 50px;
+}    
+.single-courses-item .text-holder h4 a br{
+    display: none;
+}    
+ 
+/*** 
+=============================================
+    Testimonial area style
+=============================================
+***/ 
+.testimonial-outer .quote-icon{
+    display: none;        
+}    
+.testimonial-outer .owl-stage-outer:before {
+    display: none;
+}
+    
+/*** 
+=============================================
+    Latest blog area  style
+=============================================
+***/
+.latest-blog-area .inner-content:before {
+    width: 320px;
+    height: 100px;
+    bottom: -135px;
+    left: 20px;
+}   
+.single-blog-post {
+    min-height: 274px;
+}
+    
+/*** 
+=============================================
+    Footer area style
+=============================================
+***/ 
+.footer-top-content{
+    padding-bottom: 10px;        
+}    
+.footer-top-content ul li {
+    max-width: 100%;
+    float: none;
+    border: none;
+    margin-bottom: 30px;
+}    
+.single-footer-widget.pdtop-30{
+    padding-top: 30px;        
+}    
+ 
+/*** 
+=============================================
+    Footer Bottom area style
+=============================================
+***/ 
+.footer-bottom-area {
+    padding: 23px 0 15px;
+}    
+.footer-bottom-area .footer-bottom .copyright-text {
+    float: none !important;
+    text-align: center;
+    display: block;
+}    
+.footer-social-links {
+    margin: 5px 0 0;
+    float: none !important;
+    text-align: center;
+}
+.footer-social-links ul li {
+    display: inline-block;
+    float: none;
+    margin: 0 5px;
+}    
+     
+/*** 
+=============================================
+    Applying process area style
+=============================================
+***/ 
+.applying-process {
+    max-width: 320px;
+}    
+.applying-process ul li {
+    margin: 0 5px 10px;
+    width: 150px;
+    height: 150px;
+    padding: 40px 0;
+}
+.applying-process ul li .icon-holder {
+    margin-bottom: 6px;
+}    
+.applying-process ul li.arrow-bottom:before{
+    display: none;
+}    
+.applying-process ul li.arrow-top:before{
+    display: none;        
+}    
+.applying-process ul li .icon-holder span:before {
+    font-size: 40px;
+    line-height: 40px;
+}    
+        
+/*** 
+=============================================
+    Faq area style
+=============================================
+***/      
+.faq-left {
+    margin-bottom: 50px;
+}    
+        
+/*** 
+=============================================
+    Slogan area style
+=============================================
+***/ 
+.slogan-area{
+    padding: 30px 0 35px;        
+}    
+.slogan-area .title {
+    margin: 0px 0 13px;
+    float: none !important;
+    display: block;
+    text-align: center;
+}    
+.slogan-area .button {
+    float: none !important;
+    display: block;
+}    
+.slogan-area .button a {
+    margin: 0 auto;
+}    
+        
+/*** 
+=============================================
+    Coach Single Area style
+=============================================
+***/ 
+.single-coach-content .description-content-box .text-holder {
+    display: block;
+    margin-top: 30px;
+}    
+.single-coach-content .get-content-box .text-holder {
+    margin-top: 35px;
+}    
+.single-coach-content .package-content-box .text-holder {
+    display: block;
+    margin-top: 35px;
+}    
+.single-coach-content .package-content-box .pricing-box .single-box .left-content, 
+.single-coach-content .package-content-box .pricing-box .single-box .right-content {
+    display: block;        
+}       
+.single-coach-content .package-content-box .pricing-box .single-box .right-content ul {
+    margin-top: 10px;
+}    
+
+/*** 
+=============================================
+    Consultation Form Area style
+=============================================
+***/     
+.consultation-form-box .appointment-form-box .ui-selectmenu-button {
+    margin-bottom: 22px;
+}    
+    
+/*** 
+=============================================
+    Single speaker Area style
+=============================================
+***/   
+.single-speaker-area .bottom-content .schedule .schedule-single .inner-content .left .time, 
+.single-speaker-area .bottom-content .schedule .schedule-single .inner-content .left .title{
+    display: block;
+    overflow: hidden;
+}    
+.single-speaker-area .bottom-content .schedule .schedule-single .inner-content .left .time{
+    border: none;        
+}
+.single-speaker-area .bottom-content .schedule .schedule-single .inner-content .left .title{
+    padding-left: 0;
+    margin-top: 15px;
+}   
+.single-speaker-area .bottom-content .schedule .schedule-single .inner-content .left{
+    float: none !important;  
+    display: block;
+    margin-bottom: 15px;
+}    
+.single-speaker-area .bottom-content .schedule .schedule-single .inner-content .right{
+    float: none !important;        
+}    
+
+/*** 
+=============================================
+    Event single area style
+=============================================
+***/  
+.event-single-sidebar{
+    margin-top: 60px;        
+} 
+.single-event-content .why-come .single-box{
+    margin-bottom: 30px;        
+}    
+.single-event-content .why-come .single-box img{
+    width: 100%;        
+}    
+               
+/*** 
+=============================================
+    Blog large area style
+=============================================
+***/     
+.blog-large-area .blog-post:before {
+    display: none;
+}    
+#blog-area .sidebar-wrapper {
+    padding: 0;
+    margin-top: 60px;
+}    
+    
+/*** 
+=============================================
+    Blog Single area style
+=============================================
+***/
+.blog-single-area .bottom-content-box .text-box {
+    margin-top: 20px;
+}  
+.blog-single-area .bottom-content-box .img-box img {
+    width: 100%;
+}    
+.blog-single-area .tag-box .left {
+    float: none !important;
+    display: block;
+}
+.blog-single-area .tag-box .tag {
+    float: none !important;
+    display: block;
+    margin-top: 10px;
+}     
+      
+/*** 
+=============================================
+    Breadcrumb area about page style
+=============================================
+***/
+.applying-process.about-page {
+    max-width: 240px;
+}  
+.applying-process.about-page ul li {
+    margin: 0 10px 20px;
+}    
+           
+/*** 
+=============================================
+    Experience area about page style
+=============================================
+***/       
+.life-coacher-box {
+    padding-bottom: 50px;
+}  
+.mission-vision-content .single-box {
+    margin-bottom: 30px;
+}        
+    
+/*** 
+=============================================
+    History progress area style
+=============================================
+***/      
+.history-progress-area .progress-br{
+    display: block;
+    margin-top: 50px;
+}    
+         
+/*** 
+=============================================
+    Life coaching area style
+=============================================
+***/     
+.life-coaching-area .certified-logo {
+    padding-bottom: 40px;
+}    
+.life-coaching-area .life-coaching-carousel .single-box{
+    padding-right: 40px;        
+}     
+    
+/*** 
+=============================================
+    All courses area style
+=============================================
+***/      
+.all-courses-area .courses-content {
+    padding-bottom: 70px;
+    display: block;
+}    
+        
+/*** 
+=============================================
+    single courses area style
+=============================================
+***/     
+.single-courses-area .single-courses-content{
+    padding-bottom: 70px;
+    display: block;        
+} 
+.single-courses-content .meta-box {
+    border-top: none;
+    border-bottom: none;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}    
+.single-courses-content .meta-box ul li {
+    border-right: none;
+    margin-right: 30px;
+    padding-right: 0px;
+    line-height: 20px;
+    margin-bottom: 15px;
+}        
+.single-course-tab-box .tab-content .instructors-box .single-instructor {
+    margin: 0 10px 20px;
+}    
+    
+/*** 
+=============================================
+    Success stories area style
+=============================================
+***/      
+.success-stories-content{
+    display: block;
+    padding-bottom: 70px;
+}
+.single-success-stories .text-holder {
+    padding-top: 30px;
+}    
+    
+/*** 
+=============================================
+    Success stories single style
+=============================================
+***/  
+.single-success-stories-content {
+    display: block;
+    padding-bottom: 70px;
+}      
+.single-success-stories-content .top-box .image-box {
+    float: none;
+    max-width: 100%;
+    width: 100%;
+}    
+.single-success-stories-content .top-box .image-box img{
+    width: 100%;        
+} 
+.single-success-stories-content .what-we-offer-text .text {
+    overflow: hidden;
+    padding-bottom: 40px;
+}    
+    
+/*** 
+=============================================
+    Project single Area style
+=============================================
+***/ 
+#project-single-area .owl-theme .owl-dots {
+    top: 50%;
+}    
+#project-single-area .project-info {
+    margin-top: 30px;
+    padding-left: 0;
+}    
+#project-single-area .project-info:before {
+    display: none;
+}  
+#project-single-area .bottom .button{}        
+      
+/*** 
+=============================================
+    Testimonial page style
+=============================================
+***/ 
+.testimonial-page {
+    padding-bottom: 25px;
+}    
+.testimonial-page .testimonial-box .single-box:before {
+    display: none;
+}   
+.testimonial-page .testimonial-box .single-box {
+    position: relative;
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}  
+.testimonial-page .testimonial-block-one {
+    display: block;
+    padding: 0 30px;
+    margin-bottom: 50px;
+}    
+        
+/*** 
+=============================================
+    Not Found area style
+=============================================
+***/      
+.not-found-content .search-form {
+    width: 300px;
+}    
+.not-found-content .search-form input[type="text"] {
+    width: 300px;
+}      
+      
+/*** 
+=============================================
+    Shop Area style
+=============================================
+***/     
+#shop-area .sidebar-wrapper {
+    position: relative;
+    padding-top: 70px;
+}
+      
+/*** 
+=============================================
+    Single Shop Area style
+=============================================
+***/     
+.single-shop-content .img-holder {
+    margin-right: 0px;
+    max-width: 400px;
+}    
+.single-shop-content .content-box {
+  margin-left: 0;
+  margin-top: 35px;
+}   
+.related-product .single-product-item {
+  margin-bottom: 40px;
+}      
+ 
+/*** 
+=============================================
+    Cart Area style
+=============================================
+***/
+.cart-middle .apply-coupon {
+  padding-left: 0;
+}       
+.cart-middle .apply-coupon input[type="text"] {
+  margin: 0 0 20px;
+  position: static;
+  width: 225px;
+}    
+.cart-area .cart-bottom .calculate-shipping {
+  padding-bottom: 60px;
+}    
+.cart-middle .update-cart {
+  float: left !important;
+  margin: 20px 0 0;
+}        
+.cart-bottom .calculate-shipping input[type="text"] {
+    margin-bottom: 25px;
+}             
+    
+/*** 
+=============================================
+    Checkout Area style
+=============================================
+***/    
+.checkout-area .form.shipping-info {
+  padding-top: 60px;
+}    
+.checkout-area .cart-total {
+  padding-top: 60px;
+}   
+.checkout-area .exisitng-customer h5 a {
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin-top: 7px;
+}
+.checkout-area .coupon h5 a {
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin-top: 7px;
+}       
+    
+/*** 
+=============================================
+    Login Register Area style
+=============================================
+***/  
+.login-register-area .form a.forgot-password {
+  float: left;
+  margin: 35px 0 0;
+}  
+.login-register-area .form.register {
+  padding-top: 60px;
+}    
+.login-register-area .form .social-icon {
+  float: left;
+  margin-right: 0;
+  margin-top: 30px;
+}    
+.login-register-area .form .social-icon span {
+  left: 0;
+  position: relative;
+} 
+.login-register-area .form .social-icon .login-with {
+  position: static;
+}    
+.login-register-area .form h6 {
+  margin: 20px 0 0;
+}
+.login-register-area .form .right {
+    display: block;
+    overflow: hidden;
+    margin-left: 0px;
+}
+
+/*** 
+=============================================
+    Contact Info Area style
+=============================================
+***/     
+.contact-form {
+    margin-bottom: 50px;
+}    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px){}
+
+
+
+@media (min-width: 992px){ 
+    
+.navbar-collapse.collapse {
+    display: block !important;
+    height: auto;
+    padding-bottom: 0;
+    overflow: visible !important;
+}
+.navbar-toggle {
+    display: none !important;
+}
+    
+}
+
+
+
+@media only screen and (max-width: 991px){    
+.sticky-header {
+    display: none;
+}     
+.main-menu {
+    display: block;
+    float: right !important;
+    padding-bottom: 0;
+    padding-top: 73px;
+    z-index: 5;
+    width: 100%;
+    padding-bottom: 14px;
+}
+.main-menu .navigation li {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+}   
+.main-menu .collapse {
+    border: none;
+    border-radius: 0px !important;
+    float: none;
+    margin: 0;
+    max-height: 370px;
+    overflow: auto;
+    padding: 0;
+    width: 100%;
+}    
+.main-menu .collapse.in, 
+.main-menu .collapsing {
+    border: none;
+    border-radius: 0px;
+    margin: 0;
+    padding: 0;
+    border-top: none;
+}    
+.main-menu .navbar-header {
+    position: relative;
+    float: none;
+    display: block;
+    text-align: right;
+    width: 100%;
+    padding: 0;
+    right: 0px;
+    z-index: 12;
+}      
+.main-menu .navbar-header .navbar-toggle {
+    background: #252525;
+    border: 1px dashed #3b3b3b;
+    display: inline-block;
+    border-radius: 3px;
+    float: none;
+    margin: 0;
+    z-index: 7;
+    width: 50px;
+    height: 47px;
+    cursor: pointer;
+    padding: 0 9px;
+    position: absolute;
+    top: -53px;
+    right: 0;
+}
+.main-menu .navbar-header .navbar-toggle .icon-bar {
+    display: block;
+    background: #e7e7e7;
+    width: 30px;
+    height: 2px;
+    border-radius: 1px;
+}
+.main-menu .navbar-header .navbar-toggle .icon-bar+.icon-bar {
+    margin-top: 6px;
+}
+.main-menu .navbar-collapse .navigation > li > ul{
+    padding: 3px 30px;        
+}    
+.main-menu .navbar-collapse .navigation > li > ul:before {
+    display: none;
+}   
+.main-menu .navbar-collapse > .navigation {
+    background: #252525 !important;
+    float: none !important;
+    width: 100% !important;
+    margin-top: 10px;
+    margin-bottom: 6px;
+}     
+.main-menu .navbar-collapse .navigation > li{
+    margin:0px !important;
+    float:none !important;
+    width:100%;
+    padding: 0;
+} 
+.main-menu .navbar-collapse .navigation li::before {
+    background: none;
+    position: static;
+}  
+.main-menu .navbar-collapse .navigation li.dropdown > a:after{
+    display:none !important;
+} 
+.main-menu .navbar-collapse .navigation li a:after {
+    display: none;
+}
+    
+.main-menu .navbar-collapse > .navigation > li > a{
+    padding:10px 10px !important;
+}     
+.main-menu .navbar-collapse > .navigation > li > ul,
+.main-menu .navbar-collapse > .navigation > li > ul > li > ul{
+    position:relative;
+    border:none;
+    float:none;
+    visibility:visible;
+    opacity:1;
+    display:none;
+    margin:0px;
+    left:auto !important;
+    right:auto !important;
+    top:auto !important;
+    width:100%;
+    background: none;
+    border-radius:0px;
+    transition:none !important;
+}       
+.main-menu .navbar-collapse > .navigation > li,
+.main-menu .navbar-collapse > .navigation > li > ul > li{
+    border-top: 1px solid #3a3a3a;
+    opacity:1 !important;
+    top:0px !important;
+    left:0px !important;
+    visibility:visible !important;
+}  
+.main-menu .navbar-collapse > .navigation > li:last-child,
+.main-menu .navbar-collapse > .navigation > li > ul > li:last-child{
+    border-bottom: 1px solid #3a3a3a;        
+}    
+.main-menu .navbar-collapse > .navigation > li > a {
+    padding: 10px 10px !important;
+    line-height: 22px;
+    color: #ffffff;
+    background: #202020;
+    text-align: left; 
+}
+    
+.main-menu .navbar-collapse .navigation li ul li{
+    padding: 0;        
+} 
+.main-menu .navbar-collapse .navigation li ul li:last-child{
+    border-bottom: none;        
+}    
+.main-menu .navbar-collapse .navigation li ul li a {
+    padding: 10px 10px !important;
+    line-height: 22px;
+    color: #ffffff;
+    background: #252525;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: capitalize;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+}
+.main-menu .navbar-collapse .navigation li ul li a:before {
+    display: none;
+}    
+.main-menu .navbar-collapse > .navigation > li > a:hover,
+.main-menu .navbar-collapse > .navigation > li > a:active,
+.main-menu .navbar-collapse > .navigation > li > a:focus{ } 
+.main-menu .navbar-collapse > .navigation > li:hover > a,
+.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+.main-menu .navbar-collapse > .navigation > li.current > a{
+    color: #ffffff !important;
+}        
+.main-menu .navbar-collapse > .navigation li.dropdown .dropdown-btn{
+    display:block;
+}
+       
+      
+    
+}

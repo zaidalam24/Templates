@@ -1,0 +1,1644 @@
+
+/* Large Layout: 1200px. */
+@media only screen and (min-width: 1200px){
+.container {padding: 0;}
+.container-fluid{padding: 0;}    
+ 
+    
+}
+
+
+
+
+/* Medium screen  */ 
+@media only screen and (min-width: 992px) and (max-width: 1199px) {  
+    
+ /*** 
+=============================================
+    Top bar Area style
+=============================================
+***/
+.top-left-content {
+    max-width: 740px;
+}    
+.mail-social-info .mail-social li .sociallinks-style-one li {
+    margin-right: 10px;
+}    
+.top-right-content {
+    max-width: 185px;
+} 
+        
+/*** 
+=============================================
+    header Area style
+=============================================
+***/ 
+.header-middle {
+    margin-left: 55px;
+}    
+.main-menu .navigation li {
+    margin-left: 20px;
+}
+.search-box {
+    right: 15px;
+}      
+
+/*** 
+=============================================
+    Header Bottom Area style
+=============================================
+***/  
+.currency-box {
+    max-width: 380px;
+}    
+.currency-value ul li {
+    width: 120px;
+}    
+    
+/*** 
+=============================================
+    Banner area style
+=============================================
+***/       
+.banner-left .big-title br{
+    display: none;        
+}
+.banner-left p br{
+    display: none;               
+}    
+    
+/*** 
+=============================================
+    Price Tables area style
+=============================================
+***/      
+.single-price-box {
+    margin-bottom: 30px;
+}    
+
+/*** 
+=============================================
+    Market update area style
+=============================================
+***/       
+.market-update-right-content {
+    margin: 50px 0 0;
+}    
+ 
+/*** 
+=============================================
+    Buysell crypto area style
+=============================================
+***/      
+.buysell-crypto-text {
+    padding-bottom: 0;    
+}
+.buysell-crypto-form{
+    margin-top: 50px;            
+}    
+.buysell-crypto-image img{
+    max-width: 100%;
+    width: 100%;
+    float: none;
+    margin: 0;
+}
+
+/*** 
+=============================================
+    Featured area style
+=============================================
+***/     
+.featured-content ul .single-item {
+    max-width: 310px;
+    padding: 0 20px 0;
+} 
+    
+/*** 
+=============================================
+    Latest blog area  style
+=============================================
+***/    
+.latest-blog-area .single-blog-post .text-holder {
+    padding-top: 24px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 23px;
+}
+    
+/*** 
+=============================================
+    Footer area style
+=============================================
+***/     
+.footer-contact-box ul li {
+    margin-right: 30px;
+}    
+.single-footer-widget .our-info .footer-logo {
+    display: block;
+    margin-bottom: 15px;
+}    
+
+/*** 
+=============================================
+    Fact counter area style
+=============================================
+***/     
+.single-fact-counter {
+    max-width: 175px;
+    width: 100%;
+}    
+.single-fact-counter .count-box .title h3 {
+    font-size: 14px;
+}
+
+/*** 
+=============================================
+    Mission Vision area style
+=============================================
+***/      
+.mission-vision-area .video-content-box {
+    min-width: 630px;
+    width: 630px;
+    margin: 0 auto;
+}    
+    
+/*** 
+=============================================
+    Contact info area style
+=============================================
+***/     
+.contact-form {
+    margin-right: 0;
+    margin-bottom: 40px;
+}    
+.contact-box-content {
+    margin-left: 0;
+}
+ 
+/*** 
+=============================================
+    Main project area style
+=============================================
+***/    
+.single-project-item .img-holder .overlay-style-one .box .content h3 a {
+    font-size: 16px;
+}    
+
+/*** 
+=============================================
+    Project Single area style
+=============================================
+***/ 
+.project-single-area .project-info ul {
+    padding-left: 15px;
+    padding-right: 0;
+}    
+.project-single-area .project-info ul li b {
+    width: 90px;
+}     
+.project-single-area .project-info ul li span {
+    padding-left: 10px;
+}       
+    
+/*** 
+=============================================
+    Blog default area style
+=============================================
+***/     
+.blog-default-area .single-blog-post .text-holder {
+    padding-top: 24px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 23px;
+}  
+  
+/*** 
+=============================================
+    Blog Single area style
+=============================================
+***/
+.blog-single-area .single-blog-post .text-holder .top .meta-box .meta-info li {
+    line-height: 20px;
+} 
+.blog-single-area .bottom-content-box .text-box {
+    margin-top: 20px;
+}  
+.blog-single-area .bottom-content-box .img-box img {
+    width: 100%;
+}    
+.blog-single-area .tag-box .left {
+    float: none !important;
+    display: block;
+}
+.blog-single-area .tag-box .tag {
+    float: none !important;
+}      
+ 
+/*** 
+=============================================
+    Shop Area style
+=============================================
+***/     
+#shop-area .shop-content {
+    overflow: hidden;
+    margin-top: 30px;
+}      
+ 
+/*** 
+=============================================
+    Single Shop Area style
+=============================================
+***/     
+.single-shop-content .img-holder {
+    margin-right: 20px;
+}    
+.single-shop-content .content-box {
+    margin-left: -20px;
+}        
+    
+/*** 
+=============================================
+    Login Register Area style
+=============================================
+***/     
+.login-register-area .form a.forgot-password {
+    margin: 70px 0 0;
+}    
+.login-register-area .form.register {
+    overflow: hidden;
+    margin-top: 50px;
+}    
+.login-register-area .form h6 {
+    margin: 28px 0 0;
+}          
+    
+/*** 
+=============================================
+    Single Service area style
+=============================================
+***/    
+.single-ser-top-content .inner-content .img-holder {
+    float: none;
+    max-width: 470px;
+}
+.single-ser-top-content .inner-content .img-holder img{
+    width: 100%;        
+}    
+.profit-improvement-box .text-holder {
+    margin-right: 0px;
+    margin-bottom: 30px;
+}    
+ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    
+
+}
+
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {  
+    
+/*** 
+=============================================
+    Top Bar Area style
+=============================================
+***/       
+.top-left-content {
+    max-width: 530px;
+    margin: 0 auto;
+    float: none !important;
+}
+.top-left-content .top-menu {
+    float: none;
+    width: 100%;
+    padding-top: 10px;
+}
+.top-left-content .top-menu ul {
+    width: 260px;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+.top-right-content {
+    float: none !important;
+    margin: 0 auto;
+}    
+    
+/*** 
+=============================================
+    header Area style
+=============================================
+***/    
+.header-area .inner-content {
+    display: block;
+    background: #0F0F0F;
+    position: relative;
+    padding-top: 12px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+}
+.header-left {
+    float: none !important;
+    text-align: center;
+}
+.logo {
+    padding: 0px 0px;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    z-index: 99;
+}  
+.header-middle {
+    margin: 0;
+    float: none !important;
+}
+.header-right {
+    float: none !important;
+    width: 100%;
+    padding: 10px 0 0px;
+}
+.outer-search-box {
+    display: inline-block;
+    float: right;
+    border: 1px dashed #3b3b3b;
+    margin: 0;
+    padding: 4px 4px 4px;
+    background: #252525;
+    border-radius: 3px;
+}
+.search-box {
+    right: 30px;
+}      
+.header-right .button {
+    float: left;
+}  
+.header-area.stricky-fixed .inner-content {
+    padding-top: 12px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 14px;
+}    
+.header-area.stricky-fixed .header-right{
+    display: none;
+}    
+.header-area.stricky-fixed .logo {
+    position: absolute;
+    padding: 0;
+}
+
+/*** 
+=============================================
+    Header bottom area style
+=============================================
+***/     
+.currency-box {
+    max-width: 135px;
+}
+.currency-box:before{
+    display: none;
+}  
+.currency-box:after{
+    display: none;
+}     
+.currency-value ul li {
+    width: 121px;
+}    
+    
+/*** 
+=============================================
+    Banner area style
+=============================================
+***/       
+.banner-left {
+    padding-top: 0;
+    padding-bottom: 50px;
+}
+    
+/*** 
+=============================================
+    Price Tables area style
+=============================================
+***/      
+.single-price-box {
+    margin-bottom: 30px;
+}    
+    
+/*** 
+=============================================
+    Market update area style
+=============================================
+***/       
+.market-update-right-content {
+    margin: 50px 0 0;
+}    
+
+/*** 
+=============================================
+    Buysell crypto area style
+=============================================
+***/      
+.buysell-crypto-text {
+    padding-bottom: 0;    
+}
+.buysell-crypto-form{
+    margin-top: 50px;            
+}    
+.buysell-crypto-image img{
+    max-width: 100%;
+    width: 100%;
+    float: none;
+    margin: 0;
+}       
+    
+/*** 
+=============================================
+    Featured area style
+=============================================
+***/ 
+.featured-area {
+    padding-bottom: 33px;
+}   
+.featured-content ul .single-item {
+    max-width: 440px;
+    width: 440px;
+    margin: 0 auto;
+    display: block;
+    float: none;
+    border: none;
+    margin-bottom: 40px;
+} 
+
+/*** 
+=============================================
+    Footer area style
+=============================================
+***/     
+.single-footer-widget .our-info {
+    overflow: hidden;
+    padding-bottom: 37px;
+} 
+.footer-contact-box {
+    padding-top: 44px;
+    padding-bottom: 1px;
+}       
+.footer-contact-box ul li {
+    margin-right: 0;
+    width: 50%;
+    margin-bottom: 40px;
+}    
+.footer-contact-box ul li .footer-social-links li {
+    width: auto;
+    margin: 0;
+    margin-right: 20px;
+}
+ 
+/*** 
+=============================================
+    Footer Bottom area style
+=============================================
+***/ 
+.footer-bottom-area {
+    background: #202020;
+    padding: 20px 0 23px;
+}    
+.footer-bottom-area .footer-bottom .copyright-text {
+    float: none !important;
+    text-align: center;
+    display: block;
+}    
+.footer-bottom-area .footer-bottom .payment-methold-option {
+    margin: 12px 0 0;
+    float: none !important;
+    text-align: center;
+}
+.footer-bottom-area .footer-bottom .payment-methold-option ul li {
+    display: inline-block;
+    float: none;
+    margin: 0 5px;
+}    
+ 
+/*** 
+=============================================
+    About area style
+=============================================
+***/     
+.about-right-box .single-item.left {
+    margin-top: 50px;
+}    
+    
+/*** 
+=============================================
+    Fact counter area style
+=============================================
+***/
+.fact-counter-area {
+    padding: 110px 0 120px;
+}    
+.fact-counter-area .sec-title {
+    padding-bottom: 30px;
+}    
+.single-fact-counter {
+    max-width: 175px;
+    width: 100%;
+}    
+.single-fact-counter .count-box .title h3 {
+    font-size: 14px;
+}    
+        
+/*** 
+=============================================
+    Mission Vision area style
+=============================================
+***/      
+.mission-vision-area .video-content-box {
+    min-width: 610px;
+    width: 610px;
+    margin: 0 auto;
+}
+    
+/*** 
+=============================================
+    Contact info area style
+=============================================
+***/     
+.contact-form {
+    margin-right: 0;
+    margin-bottom: 40px;
+}    
+.contact-box-content {
+    margin-left: 0;
+}    
+ 
+/*** 
+=============================================
+    Welcome area style
+=============================================
+***/  
+.welcome-area .icon-text-holder {
+    padding-top: 0px;
+}    
+.bitcoin-buy-process-box {
+    float: left;
+    display: block;
+    padding-top: 40px;
+}    
+
+/*** 
+=============================================
+    Payment option area style
+=============================================
+***/      
+.payment-option-area .icon-text-holder {
+    padding-top: 40px;
+}    
+    
+/*** 
+=============================================
+    Buy sell area style
+=============================================
+***/     
+.buy-sell-area .icon-text-holder {
+    padding-top: 0px;
+} 
+.buy-sell-area .img-holder {
+    float: left;
+    display: block;
+    padding-top: 40px;
+}    
+    
+/*** 
+=============================================
+    Main project area style
+=============================================
+***/  
+.filters li span {
+    padding: 22px 10px 22px;
+}    
+    
+/*** 
+=============================================
+    Project Single area style
+=============================================
+***/ 
+.project-single-area .project-info ul li b {
+    width: 90px;
+}       
+.project-single-area .project-info ul li span {
+    padding-left: 10px;
+}    
+.project-single-area .project-info {
+    margin-bottom: 30px;
+}    
+ 
+/*** 
+=============================================
+    Faq content area style
+=============================================
+***/     
+.faq-content-area .tab-menu {
+    margin-bottom: 40px;
+}    
+    
+/*** 
+=============================================
+    Blog large area style
+=============================================
+***/ 
+.blog-large-area .blog-post {
+    margin-right: 0;
+    border-right: none;
+    padding-right: 0;
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}    
+.sidebar-wrapper {
+    margin-top: 70px;
+    margin-left: 0;
+} 
+    
+/*** 
+=============================================
+    Blog Single area style
+=============================================
+***/
+.blog-single-area .blog-post {
+    margin-right: 0;
+    border-right: none;
+    padding-right: 0;
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}         
+.blog-single-area .single-blog-post .text-holder .top .meta-box .meta-info li {
+    line-height: 20px;
+} 
+.blog-single-area .bottom-content-box .text-box {
+    margin-top: 20px;
+}  
+.blog-single-area .bottom-content-box .img-box img {
+    width: 100%;
+}    
+.blog-single-area .tag-box .left {
+    float: none !important;
+    display: block;
+}
+.blog-single-area .tag-box .tag {
+    float: none !important;
+}          
+
+    
+/*** 
+=============================================
+    Shop Area style
+=============================================
+***/ 
+#shop-area .sidebar-wrapper {
+    margin-top: 0px;
+}    
+#shop-area .shop-content {
+    overflow: hidden;
+    margin-top: 30px;
+}          
+    
+/*** 
+=============================================
+    Single Shop Area style
+=============================================
+***/     
+.single-shop-content .img-holder {
+    margin-right: 0px;
+    max-width: 330px;
+}  
+.single-shop-content .content-box {
+    margin-left: 0;
+    margin-top: 0;
+}   
+.related-product .single-product-item {
+    margin-bottom: 40px;
+}           
+    
+/*** 
+=============================================
+    Cart Area style
+=============================================
+***/      
+.cart-area .cart-bottom .calculate-shipping {
+  padding-bottom: 60px;
+}      
+ 
+/*** 
+=============================================
+    Checkout Area style
+=============================================
+***/    
+.checkout-area .form.shipping-info {
+  padding-top: 60px;
+}    
+.checkout-area .cart-total {
+  padding-top: 60px;
+}    
+    
+/*** 
+=============================================
+    Login Register Area style
+=============================================
+***/     
+.login-register-area .form a.forgot-password {
+  margin: 70px 0 0;
+} 
+.login-register-area .register {
+  padding-top: 50px;
+}    
+.login-register-area .form h6 {
+  color: #797979;
+  float: left;
+  font-size: 14px;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-top: 27px;
+}
+
+/*** 
+=============================================
+    Single Service area style
+=============================================
+***/ 
+.single-ser-top-content {
+    margin-top: 60px;
+}    
+.single-ser-top-content .inner-content .img-holder {
+    float: none;
+    max-width: 470px;
+}
+.single-ser-top-content .inner-content .img-holder img{
+    width: 100%;        
+}    
+.profit-improvement-box .text-holder {
+    margin-right: 0px;
+    margin-bottom: 30px;
+}    
+ 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+    
+}
+
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+/*** 
+=============================================
+    Top Bar Area style
+=============================================
+***/    
+.top-left-content {
+    max-width: 290px;
+    margin: 0 auto;
+    float: none !important;
+}
+.language-switcher {
+    float: none;
+    width: 150px;
+    height: 36px;
+    margin: 0 auto;
+    border: 1px solid #2c2c2c;
+    display: block;
+    padding: 4px 5px 0px;
+    padding-left: 18px;
+    margin-bottom: 10px;
+}
+.mail-social-info .mail-social {
+    padding: 0 30px;
+}    
+.mail-social-info .mail-social li {
+    display: inline-block;
+    float: left;
+    margin-left: 0px;
+    border-left: none;
+    font-size: 14px;
+    padding-left: 0px;
+} 
+.top-left-content .top-menu {
+    float: none;
+    width: 100%;
+    padding-top: 5px;
+}    
+.top-left-content .top-menu ul {
+    width: 260px;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+.top-right-content {
+    float: none !important;
+    margin: 0 auto;
+}    
+    
+/*** 
+=============================================
+    header Area style
+=============================================
+***/    
+.header-area .inner-content {
+    display: block;
+    background: #0F0F0F;
+    position: relative;
+    padding-top: 12px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+}
+.header-left {
+    float: none !important;
+    text-align: center;
+}
+.logo {
+    padding: 0px 0px;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    z-index: 99;
+}  
+.header-middle {
+    margin: 0;
+    float: none !important;
+}
+.header-right {
+    float: none !important;
+    width: 100%;
+    padding: 10px 0 0px;
+}
+.outer-search-box {
+    display: inline-block;
+    float: right;
+    border: 1px dashed #3b3b3b;
+    margin: 0;
+    padding: 4px 4px 4px;
+    background: #252525;
+    border-radius: 3px;
+}
+.search-box {
+    right: 30px;
+}    
+.header-right .button {
+    float: left;
+}  
+.header-area.stricky-fixed .inner-content {
+    padding-top: 12px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 14px;
+}    
+.header-area.stricky-fixed .header-right{
+    display: none;
+}    
+.header-area.stricky-fixed .logo {
+    position: absolute;
+    padding: 0;
+}
+    
+/*** 
+=============================================
+    Header bottom area style
+=============================================
+***/     
+.currency-box {
+    max-width: 135px;
+    width: 135px;
+    margin: 0 auto;
+    float: none !important;
+}
+.currency-box:before{
+    display: none;
+} 
+.currency-box:after{
+    display: none;
+}   
+.currency-value {
+    display: block;
+    float: none !important;
+    width: 300px;
+    margin: 0 auto;
+} 
+.currency-value ul {
+    overflow: hidden;
+    float: none;
+    padding: 10px 0 9px;
+}   
+.currency-value ul li {
+    width: 150px;
+    border: none;
+} 
+.currency-value ul li:last-child{
+    border: none;        
+}    
+.buy-button {
+    float: none;
+    overflow: hidden;
+}        
+.buy-button a {
+    margin: 0 auto;
+}    
+    
+/*** 
+=============================================
+    Banner area style
+=============================================
+***/       
+.banner-left {
+    padding-top: 0;
+    padding-bottom: 50px;
+}
+.banner-left .big-title br{
+    display: none;
+}    
+.banner-left p br{
+    display: none;        
+}   
+    
+/*** 
+=============================================
+    Price Tables area style
+=============================================
+***/      
+.single-price-box {
+    margin-bottom: 30px;
+}    
+        
+/*** 
+=============================================
+    Market update area style
+=============================================
+***/       
+.market-update-right-content {
+    margin: 50px 0 0;
+}    
+        
+/*** 
+=============================================
+    Buysell crypto area style
+=============================================
+***/      
+.buysell-crypto-text {
+    padding-bottom: 0;    
+}
+.buysell-crypto-form{
+    margin-top: 50px;            
+}    
+.buysell-crypto-image img{
+    max-width: 100%;
+    width: 100%;
+    float: none;
+    margin: 0;
+}       
+ 
+/*** 
+=============================================
+    Featured area style
+=============================================
+***/ 
+.featured-area {
+    padding-bottom: 33px;
+}   
+.featured-content ul .single-item {
+    max-width: 320px;
+    width: 320px;
+    margin: 0 auto;
+    display: block;
+    float: none;
+    border: none;
+    margin-bottom: 40px;
+}  
+        
+/*** 
+=============================================
+    Footer area style
+=============================================
+***/   
+.single-footer-widget.pdtop-50{
+    padding-top: 50px;        
+} 
+.single-footer-widget.martop-50{
+    margin-top: 50px;        
+}     
+.footer-contact-box {
+    padding-top: 44px;
+    padding-bottom: 1px;
+}       
+.footer-contact-box ul li {
+    margin-right: 0;
+    width: 100%;
+    margin-bottom: 40px;
+}    
+.footer-contact-box ul li .footer-social-links li {
+    width: auto;
+    margin: 0;
+    margin-right: 20px;
+}
+    
+/*** 
+=============================================
+    Footer Bottom area style
+=============================================
+***/ 
+.footer-bottom-area {
+    background: #202020;
+    padding: 20px 0 23px;
+}    
+.footer-bottom-area .footer-bottom .copyright-text {
+    float: none !important;
+    text-align: center;
+    display: block;
+}    
+.footer-bottom-area .footer-bottom .payment-methold-option {
+    margin: 12px 0 0;
+    float: none !important;
+    text-align: center;
+}
+.footer-bottom-area .footer-bottom .payment-methold-option ul li {
+    display: inline-block;
+    float: none;
+    margin: 0 5px;
+}    
+    
+/*** 
+=============================================
+    About area style
+=============================================
+***/     
+.about-right-box .single-item.left {
+    margin-top: 50px;
+} 
+    
+/*** 
+=============================================
+    Fact counter area style
+=============================================
+***/
+.fact-counter-area {
+    padding: 110px 0 100px;
+}    
+.fact-counter-area .sec-title {
+    padding-bottom: 40px;
+}    
+.single-fact-counter {
+    max-width: 100%;
+    width: 100%;
+    margin-bottom: 40px;
+    float: none;
+}  
+.single-fact-counter .count-box .title h3 {
+    font-size: 14px;
+}    
+ 
+/*** 
+=============================================
+    Mission Vision area style
+=============================================
+***/      
+.mission-vision-area .video-content-box {
+    min-width: 300px;
+    width: 300px;
+    margin: 0 auto;
+}
+.mission-vision-area .video-content-box:after{
+    display: none;
+}        
+.mission-vision-area .text-holder .single-box .icon-box {
+    top: 0;
+    left: 0px;
+}        
+.mission-vision-area .text-holder .single-box .text-box {
+    padding-top: 0px;
+    padding-left: 50px;
+}    
+
+/*** 
+=============================================
+    Contact info area style
+=============================================
+***/     
+.contact-form {
+    margin-right: 0;
+    margin-bottom: 40px;
+}    
+.contact-box-content {
+    margin-left: 0;
+}    
+          
+/*** 
+=============================================
+    Welcome area style
+=============================================
+***/  
+.welcome-area .icon-text-holder {
+    padding-top: 0px;
+}    
+.bitcoin-buy-process-box {
+    float: left;
+    display: block;
+    padding-top: 40px;
+}    
+        
+/*** 
+=============================================
+    Payment option area style
+=============================================
+***/
+.mayment-option-box {
+    max-width: 400px;
+}    
+.payment-option-area .icon-text-holder {
+    padding-top: 40px;
+}       
+
+/*** 
+=============================================
+    Buy sell area style
+=============================================
+***/     
+.buy-sell-area .icon-text-holder {
+    padding-top: 0px;
+} 
+.buy-sell-area .img-holder {
+    float: left;
+    display: block;
+    padding-top: 40px;
+}    
+    
+/*** 
+=============================================
+    Main project area style
+=============================================
+***/  
+.filters ul {
+    padding: 15px 0 15px;
+}    
+.filters li span {
+    padding: 10px 10px 10px;
+    border: none;
+}
+    
+/*** 
+=============================================
+    Project Single area style
+=============================================
+***/    
+.project-single-area .project-info {
+    margin-bottom: 30px;
+}       
+.project-single-area .project-result .business-growth-chart {
+    margin-left: 0px;
+    margin-top: 10px;
+}        
+
+/*** 
+=============================================
+    Faq content area style
+=============================================
+***/     
+.faq-content-area .tab-menu {
+    margin-bottom: 40px;
+}    
+   
+/*** 
+=============================================
+    Not Found area style
+=============================================
+***/      
+.not-found-content .search-form {
+    width: 300px;
+}    
+.not-found-content .search-form input[type="text"] {
+    width: 300px;
+}
+
+/*** 
+=============================================
+    Blog large area style
+=============================================
+***/ 
+.blog-large-area .blog-post {
+    margin-right: 0;
+    border-right: none;
+    padding-right: 0;
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}    
+.sidebar-wrapper {
+    margin-top: 70px;
+    margin-left: 0;
+}
+.single-blog-post .text-holder .meta-box .meta-info li {
+    line-height: 20px;
+}
+    
+/*** 
+=============================================
+    Blog Single area style
+=============================================
+***/
+.blog-single-area .blog-post {
+    margin-right: 0;
+    border-right: none;
+    padding-right: 0;
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}         
+.blog-single-area .single-blog-post .text-holder .top .meta-box .meta-info li {
+    line-height: 20px;
+} 
+.blog-single-area .bottom-content-box .text-box {
+    margin-top: 20px;
+}  
+.blog-single-area .bottom-content-box .img-box img {
+    width: 100%;
+}    
+.blog-single-area .tag-box .left {
+    float: none !important;
+    display: block;
+}
+.blog-single-area .tag-box .tag {
+    float: none !important;
+}        
+ 
+/*** 
+=============================================
+    Shop Area style
+=============================================
+***/ 
+#shop-area .sidebar-wrapper {
+    margin-top: 0px;
+}    
+#shop-area .shop-content {
+    overflow: hidden;
+    margin-top: 30px;
+}      
+       
+/*** 
+=============================================
+    Single Shop Area style
+=============================================
+***/     
+.single-shop-content .img-holder {
+    margin-right: 0px;
+    max-width: 400px;
+}    
+.single-shop-content .content-box {
+  margin-left: 0;
+  margin-top: 35px;
+}   
+.related-product .single-product-item {
+  margin-bottom: 40px;
+}   
+    
+/*** 
+=============================================
+    Cart Area style
+=============================================
+***/
+.cart-middle .apply-coupon {
+  padding-left: 0;
+}       
+.cart-middle .apply-coupon input[type="text"] {
+  margin: 0 0 20px;
+  position: static;
+  width: 225px;
+}    
+.cart-area .cart-bottom .calculate-shipping {
+  padding-bottom: 60px;
+}    
+.cart-middle .update-cart {
+  float: left !important;
+  margin: 20px 0 0;
+}        
+.cart-bottom .calculate-shipping input[type="text"] {
+    margin-bottom: 25px;
+}             
+    
+/*** 
+=============================================
+    Checkout Area style
+=============================================
+***/    
+.checkout-area .form.shipping-info {
+  padding-top: 60px;
+}    
+.checkout-area .cart-total {
+  padding-top: 60px;
+}   
+.checkout-area .exisitng-customer h5 a {
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin-top: 7px;
+}
+.checkout-area .coupon h5 a {
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin-top: 7px;
+}       
+    
+/*** 
+=============================================
+    Login Register Area style
+=============================================
+***/  
+.login-register-area .form a.forgot-password {
+  float: left;
+  margin: 35px 0 0;
+}  
+.login-register-area .form.register {
+  padding-top: 60px;
+}    
+.login-register-area .form .social-icon {
+  float: left;
+  margin-right: 0;
+  margin-top: 30px;
+}    
+.login-register-area .form .social-icon span {
+  left: 0;
+  position: relative;
+} 
+.login-register-area .form .social-icon .login-with {
+  position: static;
+}    
+.login-register-area .form h6 {
+  margin: 20px 0 0;
+}
+
+/*** 
+=============================================
+    Single Service area style
+=============================================
+***/ 
+.single-ser-top-content {
+    margin-top: 60px;
+}    
+.single-ser-top-content .inner-content .img-holder {
+    float: none;
+    max-width: 470px;
+}
+.single-ser-top-content .inner-content .img-holder img{
+    width: 100%;        
+}    
+.profit-improvement-box .text-holder {
+    margin-right: 0px;
+    margin-bottom: 30px;
+}    
+ 
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px){}
+
+
+
+@media (min-width: 992px){
+    
+.navbar-collapse.collapse {
+    display: block !important;
+    height: auto;
+    padding-bottom: 0;
+    overflow: visible !important;
+}
+.navbar-toggle {
+    display: none !important;
+}  
+    
+}
+
+
+
+@media only screen and (max-width: 991px){    
+.sticky-header {
+    display: none;
+}     
+.main-menu {
+    display: block;
+    float: right !important;
+    padding-bottom: 0;
+    padding-top: 61px;
+    z-index: 5;
+    width: 100%;
+}
+.main-menu .navigation li {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+}   
+.main-menu .collapse {
+    border: none;
+    border-radius: 0px !important;
+    float: none;
+    margin: 0;
+    max-height: 370px;
+    overflow: auto;
+    padding: 0;
+    width: 100%;
+}    
+.main-menu .collapse.in, 
+.main-menu .collapsing {
+    border: none;
+    border-radius: 0px;
+    margin: 0;
+    padding: 0;
+    border-top: none;
+}    
+.main-menu .navbar-header {
+    position: relative;
+    float: none;
+    display: block;
+    text-align: right;
+    width: 100%;
+    padding: 0;
+    right: 0px;
+    z-index: 12;
+}      
+.main-menu .navbar-header .navbar-toggle {
+    background: #252525;
+    border: 1px dashed #3b3b3b;
+    display: inline-block;
+    border-radius: 3px;
+    float: none;
+    margin: 0;
+    z-index: 7;
+    width: 50px;
+    height: 47px;
+    cursor: pointer;
+    padding: 0 9px;
+    position: absolute;
+    top: -53px;
+    right: 0;
+}
+.main-menu .navbar-header .navbar-toggle .icon-bar {
+    display: block;
+    background: #e7e7e7;
+    width: 30px;
+    height: 2px;
+    border-radius: 1px;
+}
+.main-menu .navbar-header .navbar-toggle .icon-bar+.icon-bar {
+    margin-top: 6px;
+}
+.main-menu .navbar-collapse .navigation > li > ul{
+    box-shadow: none;        
+}    
+.main-menu .navbar-collapse .navigation > li > ul:before {
+    display: none;
+}   
+.main-menu .navbar-collapse > .navigation {
+    background: #252525 !important;
+    float: none !important;
+    width: 100% !important;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}     
+.main-menu .navbar-collapse .navigation > li{
+    margin:0px !important;
+    float:none !important;
+    width:100%;
+    padding: 0;
+} 
+  
+.main-menu .navbar-collapse .navigation li::before {
+    background: none;
+    position: static;
+}  
+.main-menu .navbar-collapse .navigation li.dropdown > a:after{
+    display:none !important;
+} 
+.main-menu .navbar-collapse .navigation li a:after {
+    display: none;
+}
+    
+.main-menu .navbar-collapse > .navigation > li > a{
+    padding:10px 10px !important;
+}     
+.main-menu .navbar-collapse > .navigation > li > ul,
+.main-menu .navbar-collapse > .navigation > li > ul > li > ul{
+    position:relative;
+    border:none;
+    float:none;
+    visibility:visible;
+    opacity:1;
+    display:none;
+    margin:0px;
+    left:auto !important;
+    right:auto !important;
+    top:auto !important;
+    width:100%;
+    background: none;
+    border-radius:0px;
+    -webkit-border-radius:0px;
+    -ms-border-radius:0px;
+    -o-border-radius:0px;
+    -moz-border-radius:0px;
+    transition:none !important;
+    -webkit-transition:none !important;
+    -ms-transition:none !important;
+    -o-transition:none !important;
+    -moz-transition:none !important;
+}       
+.main-menu .navbar-collapse > .navigation > li,
+.main-menu .navbar-collapse > .navigation > li > ul > li{
+    border-top: 1px solid #3a3a3a;
+    opacity:1 !important;
+    top:0px !important;
+    left:0px !important;
+    visibility:visible !important;
+}  
+.main-menu .navbar-collapse > .navigation > li:last-child,
+.main-menu .navbar-collapse > .navigation > li > ul > li:last-child{
+    border-bottom: 1px solid #3a3a3a;        
+}    
+.main-menu .navbar-collapse > .navigation > li > a {
+    padding: 10px 10px !important;
+    line-height: 22px;
+    color: #ffffff;
+    background: #202020;
+    text-align: left; 
+}
+    
+.main-menu .navbar-collapse .navigation li ul li{
+    padding: 0;        
+} 
+.main-menu .navbar-collapse .navigation li ul li:last-child{
+    border-bottom: none;        
+}    
+.main-menu .navbar-collapse .navigation li ul li a {
+    padding: 10px 5px !important;
+    line-height: 22px;
+    color: #ffffff;
+    background: #252525;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: capitalize;
+    border: none;
+    font-family: 'Poppins', sans-serif;
+}
+.main-menu .navbar-collapse .navigation li ul li a:before {
+    margin: 18px 0;
+    display: none;
+}    
+.main-menu .navbar-collapse > .navigation > li > a:hover,
+.main-menu .navbar-collapse > .navigation > li > a:active,
+.main-menu .navbar-collapse > .navigation > li > a:focus{
+    background: #ffd700;
+} 
+.main-menu .navbar-collapse > .navigation > li:hover > a,
+.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+.main-menu .navbar-collapse > .navigation > li.current > a{
+    background: #febe28;
+    color: #252525 !important;
+}        
+.main-menu .navbar-collapse > .navigation li.dropdown .dropdown-btn{
+    display:block;
+}
+       
+      
+    
+}
