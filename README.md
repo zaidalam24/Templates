@@ -1,1 +1,1 @@
-﻿# Teplates
+﻿# Templates
